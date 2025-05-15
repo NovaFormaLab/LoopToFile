@@ -8,8 +8,8 @@ lang: es
 ![Licencia](https://img.shields.io/badge/Licencia-GPL--3\.0-CAFFBF)
 ![Lua](https://img.shields.io/badge/Lua-Script-BDB2FF)
 ![Desarrollado](https://img.shields.io/badge/Desarrollado-@coiapy%20en%20NovaFormaLab-ffc0cb)<br><br>
-Script funcional para **mpv** que permite generar loops de reproduccion y extraer fragmentos multimedia en nuevos archivos. <br>file.ext → ...[..]. → l∞p → file.ext
-
+Script funcional para **mpv** que permite generar loops de reproduccion y extraer fragmentos multimedia en nuevos archivos. <br>file.ext → ...[..]. → l∞p → file.ext<br><br>
+[User Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts)<br>
 [mpv](https://mpv.io/) (media player)<br> 
 [github](https://github.com/mpv-player/mpv)<br>
 
@@ -47,5 +47,3 @@ Alternar la repetir/no repetir el archivo completo, crear loops de repetición d
 | meta + alt + z  | Crear archivo '.loop' con info del loop                           |
 | meta + alt + f  | Comprobar si ffmpeg está instalado                                |
 | meta + alt + x  | Crear nuevo archivo con el loop activo                            |
-
-#mpv #mpv-script #mpv-player
